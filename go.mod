@@ -73,7 +73,7 @@ require (
 	github.com/lightstep/lightstep-tracer-go v0.15.6
 	github.com/mattn/go-sqlite3 v1.10.0 // indirect
 	github.com/mattn/goreman v0.2.1
-	github.com/microcosm-cc/bluemonday v1.0.1
+	github.com/microcosm-cc/bluemonday v1.0.2
 	github.com/neelance/parallel v0.0.0-20160708114440-4de9ce63d14c
 	github.com/opentracing-contrib/go-stdlib v0.0.0-20190104202730-77df8e8e70b4
 	github.com/opentracing/opentracing-go v1.0.2
